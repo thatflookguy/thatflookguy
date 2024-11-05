@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Lee AKA ThatFlookGuy</h1>
-<h3 align="center">I'm a Network Engineer from the UK</h3>
+<h3 align="center">I'm a chap from England who is into Linux and Networking.</h3>
 
 - 📝 I regularly write articles on [thatflookguy/blog](thatflookguy/blog)
 
